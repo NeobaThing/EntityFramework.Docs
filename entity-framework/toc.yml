@@ -123,6 +123,8 @@
         href: core/modeling/owned-entities.md
       - name: Keyless entity types
         href: core/modeling/keyless-entity-types.md
+      - name: Custom function mapping
+        href: core/modeling/custom-function-mapping.md
       - name: Alternating models with same DbContext
         href: core/modeling/dynamic-model.md
       - name: Spatial data

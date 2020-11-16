@@ -134,6 +134,8 @@ additionalContent:
             text: "Owned entity types"
           - url: core/modeling/keyless-entity-types.md
             text: "Keyless entity types"
+          - url: core/modeling/custom-function-mapping.md
+            text: "Custom function mapping"
       # Card
       - title: Query
         links:
